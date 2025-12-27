@@ -13,4 +13,5 @@ Hospitality analytics project to identify reasons for revenue decline.
 - Suggested actions for ~20% revenue recovery
 
 ## Dashboard Preview
-
+![Dashboard](M6.png)
+![Dashboard](M7.png)
